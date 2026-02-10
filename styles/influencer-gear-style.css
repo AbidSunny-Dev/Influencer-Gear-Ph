@@ -247,3 +247,35 @@ body{
 .featured-section{
     margin-bottom: 100px;
 }
+
+
+footer{
+    background-color: #0A0826;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 230px;
+
+}
+.footer-title{
+    font-size: 1.5rem;
+}
+
+D9DBE1
+
+.footer-rights{
+    color:#D9DBE1;
+
+    font-weight: 700;
+
+
+}
+
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+}
