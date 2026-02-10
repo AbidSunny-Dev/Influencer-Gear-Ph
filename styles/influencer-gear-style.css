@@ -118,3 +118,14 @@ body{
 .img-container .img{
     width: 100%;
 }
+
+/* main section */
+
+
+.sponsor{
+    padding: 100px 160px
+}
+.sponsor-container{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+}
