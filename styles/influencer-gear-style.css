@@ -135,6 +135,7 @@ body{
 
 .collection{
     padding: 100px 196px;
+    margin-bottom: 100px;
    
 }
 .collection-container{
@@ -201,4 +202,48 @@ body{
 .see-more button{
     border: none;
     font-weight: 700;
+}
+
+.feature-container{
+    max-width: 1110px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.feature-content{
+    width: 610px;
+  
+}
+
+.feature-title{
+    font-size: 2.3rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+
+
+.feature-description{
+    font-weight: 700;
+    color:#6C6C6C ;
+    margin-bottom: 16px;
+    line-height: 28px;
+}
+
+.join-btn{
+    padding: 10px 32px 10px 24px;
+    background-color: #E02C6D;
+    border: none;
+    color: white;
+    font-weight: 700;
+    
+
+}
+.join-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.featured-section{
+    margin-bottom: 100px;
 }
